@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "健康运动助手"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "健康运动助手"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "健康运动助手"
+    },
+    {
+      "name": "notification_reason",
+      "value": "用于在运动完成后推送完成通知"
+    }
+  ]
+}
